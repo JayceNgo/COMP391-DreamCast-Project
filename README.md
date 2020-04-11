@@ -1,1 +1,3 @@
-COMP391-DreamCast-Project
+# Mario Maker Deconstructed
+ 
+Recreating level mechanics from Super Mario Maker 2 in Unity (outdated)
